@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/WjOcvqIp).*
 
 ### a) Web services, 15'
 * Build and run the previous Web service examples.
